@@ -15,6 +15,9 @@ body{
 h1{
 	color: #fff;
 }
-span{
-	color: #fff;
+#stripe{
+	background-color: #fff;
+	height: 30px;
+	text-align: center;
+	color: #000;
 }
